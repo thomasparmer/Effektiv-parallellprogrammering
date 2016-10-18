@@ -1,2 +1,2 @@
-# Effektiv-parallellprogrammering
-Trådprogrammering
+
+Ha god kjennskap til basal trådprogrammering i Java og bruk av sentrale komponenter i java.util.concurrent. Vite hvilke nye vansker parallelle programmer med tråder gir og hvordan disse kan løses. Beherske teknikker for å omforme en sekvensiell algoritme til en effektiv parallell algoritme. Kunne lage flere ulike parallelle løsninger på et problem og vurdere effektiviteten til disse ved hjelp av eksekveringstider på programmer som bestemmer eventuelle hastighetsforbedringer.
