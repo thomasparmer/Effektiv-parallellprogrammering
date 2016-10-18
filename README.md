@@ -1,0 +1,2 @@
+# Effektiv-parallellprogrammering
+Trådprogrammering
